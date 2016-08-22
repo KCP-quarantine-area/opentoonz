@@ -1,0 +1,13 @@
+[Desktop Entry]
+
+Type=Application
+
+Version=1.1
+
+Name=OpenToonz
+
+Comment=2D Animation Tool 
+
+Exec=/opt/opentoonz/bin/opentoonz
+
+Icon=applications-education-science
